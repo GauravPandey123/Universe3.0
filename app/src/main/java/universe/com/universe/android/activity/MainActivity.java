@@ -36,6 +36,9 @@ public class MainActivity extends AppCompatActivity implements ViewAnimator.View
     private int res = R.drawable.content_music;
     private LinearLayout linearLayout;
 
+    //declare the views here
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
