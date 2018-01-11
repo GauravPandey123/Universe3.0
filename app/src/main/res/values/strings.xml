@@ -23,5 +23,14 @@
     <string name="fivequestions">5/5</string>
     <string name="state">State</string>
     <string name="search">Enter The State</string>
+    <string name="select_city">Select City</string>
+    <string name="select_location">Mandi/Location of shop</string>
+    <string name="name_of_the_shop">Enter Shop Name</string>
+    <string name="owner">Enter Shop Owner Name</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="err_msg_name">Enter The Text</string>
+    <string name="contact_of_owner">Enter The Contact Owner</string>
+    <string name="followUp">Follow Up Question Based On Previous Question</string>
 
 </resources>
