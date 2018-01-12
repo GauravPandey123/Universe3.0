@@ -31,6 +31,8 @@ public class SurveyFourActivity extends BaseActivity {
 
     private void initialization() {
         radioGroup = findViewById(R.id.radioGroup);
+        textViewNext=findViewById(R.id.textViewNext);
+        textViewPrevious=findViewById(R.id.textViewPrevious);
     }
 
     private void setUpElements() {
